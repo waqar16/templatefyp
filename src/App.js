@@ -31,10 +31,10 @@ function App() {
       <div className="blog" data-aos="fade-up">Learn with us</div>
       <span className="tech-subtitle text-grey">Here is the list of offered courses</span>
       
-      <div className="container">
+      
       <div className="courses-area">
         <Courses/>
-      </div>
+      
       </div>
 <div className="testinomial-sec">
 <Testimonial/>

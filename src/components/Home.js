@@ -15,8 +15,11 @@ function Home() {
         experience in Freelancing, we've honed our skills in Full-stack Web
         Development, Graphic Designing, Programming & Freelancing.
       </p>
+      <div className="mob-view">
       <button type="button" className="btn custom-btn-contact my-2 animate__animated animate__floating" >Contact Me</button>
-      <button type="button" className="btn custom-btn-light my-2 mx-3 animate__animated animate__floating" >Learn more</button>
+      <button type="button" className="btn custom-btn-light my-2  animate__animated animate__floating" >Learn more</button>
+      </div>
+     
 
     </div>
     <div className="col img-banner"><img src={banner} alt="" /></div>

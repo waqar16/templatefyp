@@ -13,7 +13,7 @@ function Courses() {
   <div className="card-body">
     <h5 className="card-title">Programming</h5>
     <p className="card-text text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="/" className="btn custom-btn-contact">Explore Courses</a>
+    <a href="/" className="btn custom-btn-explore">Explore Courses</a>
   </div>
 </div>
   </div>
@@ -23,7 +23,7 @@ function Courses() {
   <div className="card-body">
     <h5 className="card-title">Web Development</h5>
     <p className="card-text text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="/" className="btn custom-btn-contact">Explore Courses</a>
+    <a href="/" className="btn custom-btn-explore">Explore Courses</a>
   </div>
 </div>
   </div>
@@ -33,7 +33,7 @@ function Courses() {
   <div className="card-body">
     <h5 className="card-title">Freelancing</h5>
     <p className="card-text text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="/" className="btn custom-btn-contact">Explore Courses</a>
+    <a href="/" className="btn custom-btn-explore">Explore Courses</a>
   </div>
 </div>
   </div>
